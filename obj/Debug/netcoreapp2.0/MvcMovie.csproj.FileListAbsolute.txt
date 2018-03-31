@@ -1,0 +1,11 @@
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
+/Users/moopoon/Desktop/ROR/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csprojResolveAssemblyReference.cache
